@@ -11,4 +11,4 @@
 ### 2021/2/22
 - friends.html
 screen-header 컴포넌트 추가 /w CSS
-<p> "position:absolute"는 해당 element의 가장 가까운 relative를 가진 부모 기준으로 움직인다.
+  <p> "position:absolute"는 해당 element의 가장 가까운 relative를 가진 부모 기준으로 움직인다.
