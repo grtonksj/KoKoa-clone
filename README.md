@@ -21,3 +21,6 @@ friends-screen 및 user-component 컴포넌트 추가 /w CSS
 ### 2021/2/27
 - chats.html 추가 /w CSS
 - badge.css 추가  
+
+<p> .user-component__column:last-child{}; </p>
+<p> flex의 영향을 받고싶지 않은 녀석들은 div를 하나 더씌워서 부모-자식관계를 끊고 부모-손자 관계를 만든다. </p>
