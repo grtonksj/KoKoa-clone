@@ -28,3 +28,9 @@ friends-screen 및 user-component 컴포넌트 추가 /w CSS
 ### 2021/3/8
 - find.html 추가
 - find.css 추가
+
+### 2021/3/15
+- more.html, settings.html, chat.html 추가 
+- more.css, settings.css, chat.css 추가
+
+<p> HTML 수정없이 flex-direction: row-reverse 사용하여 순서 변경 </p>
